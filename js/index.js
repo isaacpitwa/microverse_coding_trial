@@ -26,3 +26,10 @@ INSTRUCTIONS:
 
 // Once you have read the above messages, you can delete all comments. 
 "use strict";
+
+
+
+//usind typed for animate text
+const typed = new Typed('.typed'{
+
+});
